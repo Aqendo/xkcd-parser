@@ -9,7 +9,7 @@ You can generate JSON dump by yourself and you can download `parsed.json` file f
 ```
 usage: ./parser.py already_data.json result_data.json
 
-A program to parse xkcd.com's json api for direct links of comics.
+A program to parse all comics' JSON from XKCD.COM
 
 positional arguments:
   already_data  The JSON file of already parsed XKCD comics

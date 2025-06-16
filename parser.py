@@ -98,7 +98,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog="XKCD Parser",
         usage="./parser.py already_data.json result_data.json",
-        description="A program to parse xkcd.com's json api for direct links of comics.",
+        description="A program to parse all comics' JSON from XKCD.COM",
         epilog="Try not to overload xkcd.com servers by overusing this script. Please!",
     )
     parser.add_argument(
