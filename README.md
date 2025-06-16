@@ -1,7 +1,10 @@
 # XKCD Parser
 A program that parses all comics' json from [xkcd.com](https://xkcd.com)
+
+## Download dump
+https://aqendo.github.io/xkcd-parser/parsed.json
 ## Automatic deployment
-You can generate JSON dump by yourself and you can download `parsed.json` file from `gh_pages` repo. This repository has CI/CD configured to automatically update that file periodically.
+You can generate JSON dump by yourself and you can download `parsed.json` file from `gh_pages` repo or directly from [Github Pages Link](https://aqendo.github.io/xkcd-parser/parsed.json). This repository has CI/CD configured to automatically update that file periodically.
 ## Help message
 ```
 usage: ./parser.py already_data.json result_data.json
