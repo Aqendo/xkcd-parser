@@ -23,13 +23,8 @@ import requests
 AMOUNT_POOL = 50
 
 
-def check_path_already_data(path: str) -> None:
-    f = open(path, "r")
-    f.close()
-
-
 def check_path_result_data(path: str) -> None:
-    f = open(path, "w")
+    f = open(path, "a+")
     f.close()
 
 
@@ -63,50 +58,50 @@ def get_json(num: int) -> dict | list:
     return json_answer
 
 
-def main(already_data: str, result_data: str) -> None:
-    check_path_already_data(already_data)
-    with open(already_data, "r") as f:
-        already_data_text = f.read()
+def main(json_file: str) -> None:
     try:
-        already_data_json = json.loads(already_data_text)
-        if not isinstance(already_data_json, list):
+        with open(json_file, "r") as f:
+            json_text = f.read()
+    except FileNotFoundError:
+        json_text = "[]"
+    try:
+        json_data = json.loads(json_text)
+        if not isinstance(json_data, list):
             print("WARNING: Wrong JSON file passed. Fallbacked to an empty list.")
-            already_data_json = []
+            json_data = []
     except json.decoder.JSONDecodeError:
         print("WARNING: Wrong JSON file passed. Fallbacked to an empty list.")
-        already_data_json = []
-    check_path_result_data(result_data)
+        json_data = []
+    check_path_result_data(json_file)
     already = set()
-    for i in already_data_json:
+    for i in json_data:
         already.add(i["num"])
     latest_comic_num = get_latest_comic_num()
-    if latest_comic_num in already:
-        save_to_file(result_data, already_data_json)
+    if latest_comic_num in already and len(already) == latest_comic_num - 1:
+        print("No new comics added")
+        save_to_file(json_file, json_data)
         return
     need_to_parse = [
         i for i in range(1, latest_comic_num + 1) if i != 404 and i not in already
     ]
-    print(len(need_to_parse))
+    print("New comics amount:", len(need_to_parse))
     with multiprocessing.Pool(AMOUNT_POOL) as p:
         results = p.map(get_json, need_to_parse)
-        already_data_json += [i for i in results if isinstance(i, dict)]
-    already_data_json.sort(key=lambda x: x["num"])
-    save_to_file(result_data, already_data_json)
+        json_data += [i for i in results if isinstance(i, dict)]
+    json_data.sort(key=lambda x: x["num"])
+    save_to_file(json_file, json_data)
 
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
         prog="XKCD Parser",
-        usage="./parser.py already_data.json result_data.json",
+        usage="./parser.py parsed.json",
         description="A program to parse all comics' JSON from XKCD.COM",
         epilog="Try not to overload xkcd.com servers by overusing this script. Please!",
     )
     parser.add_argument(
-        "already_data", help="The JSON file of already parsed XKCD comics"
-    )
-    parser.add_argument(
-        "result_data",
-        help="The JSON file that will be created. It will contain data that was already parsed + newly parsed comics info",
+        "json_file",
+        help="The JSON file of already scraped comics' info. If exists, will be updated with new comics (if any)",
     )
     args = parser.parse_args()
-    main(args.already_data, args.result_data)
+    main(args.json_file)
