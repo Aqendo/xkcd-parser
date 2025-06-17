@@ -32,7 +32,7 @@ def get_latest_comic_num() -> int:
     req = requests.get("https://xkcd.com/info.0.json")
     try:
         json_data = req.json()
-        if not "num" in json_data or not isinstance(json_data["num"], int):
+        if "num" not in json_data or not isinstance(json_data["num"], int):
             print(
                 f"ERROR: could not receive adequeate json data from xkcd! Received: {json.dumps(json_data)}"
             )
@@ -51,14 +51,14 @@ def save_to_file(path: str, data: list) -> None:
 def get_json(num: int) -> dict | list:
     req = requests.get(f"https://xkcd.com/{num}/info.0.json")
     json_answer = req.json()
-    if not "num" in json_answer:
+    if "num" not in json_answer:
         print(f"WARNING: no parameter `num` in {num}'s comic JSON! Skipping.")
         return []
     print(f"INFO: Successfully parsed {num} comic", flush=True)
     return json_answer
 
 
-def main(json_file: str) -> None:
+def update_xkcd_comics_json(json_file: str, /, is_cli: bool = False) -> None:
     try:
         with open(json_file, "r") as f:
             json_text = f.read()
@@ -78,7 +78,8 @@ def main(json_file: str) -> None:
         already.add(i["num"])
     latest_comic_num = get_latest_comic_num()
     if latest_comic_num in already and len(already) == latest_comic_num - 1:
-        print("No new comics added")
+        if is_cli:
+            print("No new comics added")
         save_to_file(json_file, json_data)
         return
     need_to_parse = [
@@ -92,10 +93,9 @@ def main(json_file: str) -> None:
     save_to_file(json_file, json_data)
 
 
-if __name__ == "__main__":
+def cli():
     parser = argparse.ArgumentParser(
-        prog="XKCD Parser",
-        usage="./parser.py parsed.json",
+        prog="xkcd_parser",
         description="A program to parse all comics' JSON from XKCD.COM",
         epilog="Try not to overload xkcd.com servers by overusing this script. Please!",
     )
@@ -104,4 +104,8 @@ if __name__ == "__main__":
         help="The JSON file of already scraped comics' info. If exists, will be updated with new comics (if any)",
     )
     args = parser.parse_args()
-    main(args.json_file)
+    update_xkcd_comics_json(args.json_file, is_cli=True)
+
+
+if __name__ == "__main__":
+    cli()
