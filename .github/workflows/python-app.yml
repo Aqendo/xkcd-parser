@@ -17,6 +17,8 @@ jobs:
           python-version: "3.11"
       - name: Clone repo, update json file and push it to the repo
         run: |
+          sudo apt update -y
+          sudo apt install jq -y
           git clone "https://Aqendo:${{secrets.GITHUB_TOKEN}}@github.com/Aqendo/xkcd-parser.git" this_repo
           cd this_repo
           git config user.name "github actions runner"
@@ -26,8 +28,8 @@ jobs:
           git checkout master
           python -m pip install --upgrade pip
           pip install -r requirements.txt
-          python parser.py ../parsed.json
+          python -m xkcd_parser ../parsed.json
           git checkout gh_pages
-          cp ../parsed.json .
+          jq < ../parsed.json > parsed.json
           git add parsed.json
           git commit -m "update" && git push || echo "Nothing has changed"
