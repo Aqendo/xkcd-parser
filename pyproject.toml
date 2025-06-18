@@ -12,7 +12,7 @@ dependencies = [
 authors = [
     {name = "Sergey Sitnikov", email = "aqendo@disroot.org"}
 ]
-license = "GPL-3.0-or-later"
+license = "MIT"
 
 [project.scripts]
 xkcd_parser = "xkcd_parser.parser:cli"
