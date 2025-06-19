@@ -1,15 +1,16 @@
 # XKCD Parser
-A program that parses all comics' json from [xkcd.com](https://xkcd.com)
+A library/cli tool to parse all comics' json from [xkcd.com](https://xkcd.com)
 
 ## Download dump
 https://aqendo.github.io/xkcd-parser/parsed.json
 ## Automatic deployment
-You can generate JSON dump by yourself and you can download `parsed.json` file from `gh_pages` repo or directly from [Github Pages Link](https://aqendo.github.io/xkcd-parser/parsed.json). This repository has CI/CD configured to automatically update that file periodically.
-## Help message
+You can generate JSON dump by yourself and you can download `parsed.json` file from `gh_pages` repo or directly from [Github Pages Link]
+(https://aqendo.github.io/xkcd-parser/parsed.json). This repository has CI/CD configured to automatically update that file periodically.
+## CLI Tool Usage
 ```
-usage: ./parser.py parsed.json
+usage: xkcd_parser [-h] json_file
 
-A program to parse all comics' JSON from XKCD.COM
+A library/cli tool to parse all comics' json from xkcd.com
 
 positional arguments:
   json_file   The JSON file of already scraped comics' info. If exists, will be updated with new comics (if any)
@@ -19,9 +20,16 @@ options:
 
 Try not to overload xkcd.com servers by overusing this script. Please!
 ```
+## Using it as a library
+```python
+import xkcd_parser
+
+# if `is_cli` is set to True, then it will print if it didn't find any new comics
+xkcd_parser.update_xkcd_comics_info("path/to/file/comics.json", is_cli=False)
+```
 ## License
 ```
-XKCD Parser - A program to parse all comics' JSON from XKCD.COM
+XKCD Parser - A library/cli tool to parse all comics' json from xkcd.com
 MIT License
 
 Copyright (c) 2025 Sergey Sitnikov
