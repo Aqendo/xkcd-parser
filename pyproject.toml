@@ -4,7 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "xkcd-parser"
-version = "0.0.4a"
+description = "A library/cli tool to parse all comics' json from xkcd.com"
+version = "0.0.6a"
 readme = "README.md"
 dependencies = [
     "requests>=2.32.4"
