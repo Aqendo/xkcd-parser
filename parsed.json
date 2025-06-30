@@ -40487,5 +40487,44 @@
     "img": "https://imgs.xkcd.com/comics/interoperability.png",
     "title": "Interoperability",
     "day": "20"
+  },
+  {
+    "month": "6",
+    "num": 3106,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Farads",
+    "transcript": "",
+    "alt": "'This HAZMAT container contains radioactive material with activity of one becquerel.' 'So, like, a single banana slice?'",
+    "img": "https://imgs.xkcd.com/comics/farads.png",
+    "title": "Farads",
+    "day": "23"
+  },
+  {
+    "month": "6",
+    "num": 3107,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Weather Balloons",
+    "transcript": "",
+    "alt": "Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'",
+    "img": "https://imgs.xkcd.com/comics/weather_balloons.png",
+    "title": "Weather Balloons",
+    "day": "25"
+  },
+  {
+    "month": "6",
+    "num": 3108,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Laser Danger",
+    "transcript": "",
+    "alt": "To combat the threat, many airlines are installing wing-mounted spray bottles.",
+    "img": "https://imgs.xkcd.com/comics/laser_danger.png",
+    "title": "Laser Danger",
+    "day": "27"
   }
 ]
