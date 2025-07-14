@@ -40565,5 +40565,44 @@
     "img": "https://imgs.xkcd.com/comics/artificial_gravity.png",
     "title": "Artificial Gravity",
     "day": "4"
+  },
+  {
+    "month": "7",
+    "num": 3112,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Geology Murder",
+    "transcript": "",
+    "alt": "After determining that his body was full of pipes carrying iron-rich fluid, our current theory is that the dagger-shaped object precipitated within the wound.",
+    "img": "https://imgs.xkcd.com/comics/geology_murder.png",
+    "title": "Geology Murder",
+    "day": "7"
+  },
+  {
+    "month": "7",
+    "num": 3113,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Fix This Sign",
+    "transcript": "",
+    "alt": "We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes.",
+    "img": "https://imgs.xkcd.com/comics/fix_this_sign.png",
+    "title": "Fix This Sign",
+    "day": "9"
+  },
+  {
+    "month": "7",
+    "num": 3114,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Building a Fire",
+    "transcript": "",
+    "alt": "That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit.",
+    "img": "https://imgs.xkcd.com/comics/building_a_fire.png",
+    "title": "Building a Fire",
+    "day": "11"
   }
 ]
