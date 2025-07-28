@@ -40643,5 +40643,44 @@
     "img": "https://imgs.xkcd.com/comics/replication_crisis.png",
     "title": "Replication Crisis",
     "day": "18"
+  },
+  {
+    "month": "7",
+    "num": 3118,
+    "link": "https://xkcd.com/3118/large/",
+    "year": "2025",
+    "news": "",
+    "safe_title": "iNaturalist Animals and Plants",
+    "transcript": "",
+    "alt": "Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy.",
+    "img": "https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png",
+    "title": "iNaturalist Animals and Plants",
+    "day": "21"
+  },
+  {
+    "month": "7",
+    "num": 3119,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Flettner Rotor",
+    "transcript": "",
+    "alt": "\"And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses.\"",
+    "img": "https://imgs.xkcd.com/comics/flettner_rotor.png",
+    "title": "Flettner Rotor",
+    "day": "23"
+  },
+  {
+    "month": "7",
+    "num": 3120,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Geologic Periods",
+    "transcript": "",
+    "alt": "Geologists claim it's because the earlier Cenozoic used to be called the Tertiary, but that's just a ruse to hide the secret third geologic period, between the Neogene and the Quaternary, that they won't tell us about.",
+    "img": "https://imgs.xkcd.com/comics/geologic_periods.png",
+    "title": "Geologic Periods",
+    "day": "25"
   }
 ]
