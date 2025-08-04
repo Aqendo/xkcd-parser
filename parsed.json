@@ -40682,5 +40682,44 @@
     "img": "https://imgs.xkcd.com/comics/geologic_periods.png",
     "title": "Geologic Periods",
     "day": "25"
+  },
+  {
+    "month": "7",
+    "num": 3121,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Kite Incident",
+    "transcript": "",
+    "alt": "Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson.",
+    "img": "https://imgs.xkcd.com/comics/kite_incident.png",
+    "title": "Kite Incident",
+    "day": "28"
+  },
+  {
+    "month": "7",
+    "num": 3122,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Bad Map Projection: Interrupted Spheres",
+    "transcript": "",
+    "alt": "During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together.",
+    "img": "https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png",
+    "title": "Bad Map Projection: Interrupted Spheres",
+    "day": "30"
+  },
+  {
+    "month": "8",
+    "num": 3123,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Canon",
+    "transcript": "",
+    "alt": "Achilles was a mighty warrior, but his Achilles' heel was his heel.",
+    "img": "https://imgs.xkcd.com/comics/canon.png",
+    "title": "Canon",
+    "day": "1"
   }
 ]
