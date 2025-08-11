@@ -40721,5 +40721,44 @@
     "img": "https://imgs.xkcd.com/comics/canon.png",
     "title": "Canon",
     "day": "1"
+  },
+  {
+    "month": "8",
+    "num": 3124,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Grounded",
+    "transcript": "",
+    "alt": "We should have you at the gate in just under two hours--two and a half if we get pulled over.",
+    "img": "https://imgs.xkcd.com/comics/grounded.png",
+    "title": "Grounded",
+    "day": "4"
+  },
+  {
+    "month": "8",
+    "num": 3125,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Snake-in-the-Box Problem",
+    "transcript": "",
+    "alt": "Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration.",
+    "img": "https://imgs.xkcd.com/comics/snake_in_the_box_problem.png",
+    "title": "Snake-in-the-Box Problem",
+    "day": "6"
+  },
+  {
+    "month": "8",
+    "num": 3126,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Disclaimer",
+    "transcript": "",
+    "alt": "You say no human would reply to a forum thread about Tom Bombadil by writing and editing hundreds of words of text, complete with formatting, fancy punctuation, and two separate uses of the word 'delve'. Unfortunately for both of us, you are wrong.",
+    "img": "https://imgs.xkcd.com/comics/disclaimer.png",
+    "title": "Disclaimer",
+    "day": "8"
   }
 ]
