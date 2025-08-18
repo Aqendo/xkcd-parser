@@ -40760,5 +40760,44 @@
     "img": "https://imgs.xkcd.com/comics/disclaimer.png",
     "title": "Disclaimer",
     "day": "8"
+  },
+  {
+    "month": "8",
+    "num": 3127,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Where Babies Come From",
+    "transcript": "",
+    "alt": "Historians: Contemporaneous documentation of the initial events is often sparse, and in fact people often get testy and uncooperative when we urge better documentation for the historical record.",
+    "img": "https://imgs.xkcd.com/comics/where_babies_come_from.png",
+    "title": "Where Babies Come From",
+    "day": "11"
+  },
+  {
+    "month": "8",
+    "num": 3128,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Thread Meeting",
+    "transcript": "",
+    "alt": "Hey, so did you ever finish your video series about Cassie and the caterpillar morph? I loved the first three, but never ... no, sorry, I get it, this isn't the place. Sorry! Sorry.",
+    "img": "https://imgs.xkcd.com/comics/thread_meeting.png",
+    "title": "Thread Meeting",
+    "day": "13"
+  },
+  {
+    "month": "8",
+    "num": 3129,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Archaeology Research",
+    "transcript": "",
+    "alt": "The academic archaeology establishment is suppressing my breakthroughs because of the disruption it would bring to their prepared-core flake-based toolmaking industry.",
+    "img": "https://imgs.xkcd.com/comics/archaeology_research.png",
+    "title": "Archaeology Research",
+    "day": "15"
   }
 ]
