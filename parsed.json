@@ -40799,5 +40799,44 @@
     "img": "https://imgs.xkcd.com/comics/archaeology_research.png",
     "title": "Archaeology Research",
     "day": "15"
+  },
+  {
+    "month": "8",
+    "num": 3130,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Predicament",
+    "transcript": "",
+    "alt": "I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?",
+    "img": "https://imgs.xkcd.com/comics/predicament.png",
+    "title": "Predicament",
+    "day": "18"
+  },
+  {
+    "month": "8",
+    "num": 3131,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Cesium",
+    "transcript": "",
+    "alt": "Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA.",
+    "img": "https://imgs.xkcd.com/comics/cesium.png",
+    "title": "Cesium",
+    "day": "20"
+  },
+  {
+    "month": "8",
+    "num": 3132,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Coastline Similarity",
+    "transcript": "",
+    "alt": "Hey! A bunch of the early Cretaceous fossils on each coast seem to have been plagiarized, too!",
+    "img": "https://imgs.xkcd.com/comics/coastline_similarity.png",
+    "title": "Coastline Similarity",
+    "day": "22"
   }
 ]
