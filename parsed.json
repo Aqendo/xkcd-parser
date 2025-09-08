@@ -40877,5 +40877,44 @@
     "img": "https://imgs.xkcd.com/comics/sea_level.png",
     "title": "Sea Level",
     "day": "29"
+  },
+  {
+    "month": "9",
+    "num": 3136,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Pull",
+    "transcript": "",
+    "alt": "Be careful fighting gravity. If you win, it's a long way down.",
+    "img": "https://imgs.xkcd.com/comics/pull.png",
+    "title": "Pull",
+    "day": "1"
+  },
+  {
+    "month": "9",
+    "num": 3137,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Cursed Number",
+    "transcript": "",
+    "alt": "Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop.",
+    "img": "https://imgs.xkcd.com/comics/cursed_number.png",
+    "title": "Cursed Number",
+    "day": "3"
+  },
+  {
+    "month": "9",
+    "num": 3138,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Dimensional Lumber Tape Measure",
+    "transcript": "",
+    "alt": "A person with two watches is never sure what time it is, especially if I got them one of the watches.",
+    "img": "https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png",
+    "title": "Dimensional Lumber Tape Measure",
+    "day": "5"
   }
 ]
