@@ -40955,5 +40955,44 @@
     "img": "https://imgs.xkcd.com/comics/mantle_model.png",
     "title": "Mantle Model",
     "day": "12"
+  },
+  {
+    "month": "9",
+    "num": 3142,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "-Style Pizza",
+    "transcript": "",
+    "alt": "If you want to see true audacity, do an image search for 'Altoona-style pizza.'",
+    "img": "https://imgs.xkcd.com/comics/city_style_pizza.png",
+    "title": "<City>-Style Pizza",
+    "day": "15"
+  },
+  {
+    "month": "9",
+    "num": 3143,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Question Mark",
+    "transcript": "",
+    "alt": "Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot...",
+    "img": "https://imgs.xkcd.com/comics/question_mark.png",
+    "title": "Question Mark",
+    "day": "17"
+  },
+  {
+    "month": "9",
+    "num": 3144,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Phase Changes",
+    "transcript": "",
+    "alt": "People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers.",
+    "img": "https://imgs.xkcd.com/comics/phase_changes.png",
+    "title": "Phase Changes",
+    "day": "19"
   }
 ]
