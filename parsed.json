@@ -40994,5 +40994,44 @@
     "img": "https://imgs.xkcd.com/comics/phase_changes.png",
     "title": "Phase Changes",
     "day": "19"
+  },
+  {
+    "month": "9",
+    "num": 3145,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Piercing",
+    "transcript": "",
+    "alt": "Some lava around the piercing site is normal, but keep an eye out for spreading earthquakes and eruptive activity that might indicate rifting.",
+    "img": "https://imgs.xkcd.com/comics/piercing.png",
+    "title": "Piercing",
+    "day": "22"
+  },
+  {
+    "month": "9",
+    "num": 3146,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Fantastic Four",
+    "transcript": "",
+    "alt": "One perk of being born at 0.88c is that your birthday is over two days long.",
+    "img": "https://imgs.xkcd.com/comics/fantastic_four.png",
+    "title": "Fantastic Four",
+    "day": "24"
+  },
+  {
+    "month": "9",
+    "num": 3147,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Hiking",
+    "transcript": "",
+    "alt": "Every downhill walk is a waterslide that might have been.",
+    "img": "https://imgs.xkcd.com/comics/hiking.png",
+    "title": "Hiking",
+    "day": "26"
   }
 ]
