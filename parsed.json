@@ -41072,5 +41072,44 @@
     "img": "https://imgs.xkcd.com/comics/ping.png",
     "title": "Ping",
     "day": "3"
+  },
+  {
+    "month": "10",
+    "num": 3151,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Window Screen",
+    "transcript": "",
+    "alt": "The Nobel Prize in Physiology or Medicine or Home Improvement or DIY",
+    "img": "https://imgs.xkcd.com/comics/window_screen.png",
+    "title": "Window Screen",
+    "day": "6"
+  },
+  {
+    "month": "10",
+    "num": 3152,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Skateboard",
+    "transcript": "",
+    "alt": "I understand it's hard to do more than 300 feet on these 90-second rush jobs, but with a smaller ramp I'm worried the gee forces will be too high for me to do any tricks.",
+    "img": "https://imgs.xkcd.com/comics/skateboard.png",
+    "title": "Skateboard",
+    "day": "8"
+  },
+  {
+    "month": "10",
+    "num": 3153,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Hot Water Balloon",
+    "transcript": "",
+    "alt": "Despite a reputation for safety, the temperatures and surprisingly high pressures make them even more dangerous than the air kind, but the NTSB refuses to investigate accidents because they insist there is no 'transportation' involved.",
+    "img": "https://imgs.xkcd.com/comics/hot_water_balloon.png",
+    "title": "Hot Water Balloon",
+    "day": "10"
   }
 ]
