@@ -41111,5 +41111,44 @@
     "img": "https://imgs.xkcd.com/comics/hot_water_balloon.png",
     "title": "Hot Water Balloon",
     "day": "10"
+  },
+  {
+    "month": "10",
+    "num": 3154,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Physics Insight",
+    "transcript": "",
+    "alt": "When Galileo dropped two weights from the Leaning Tower of Pisa, they put him in the history books. But when I do it, I get 'detained by security' for 'injuring several tourists.'",
+    "img": "https://imgs.xkcd.com/comics/physics_insight.png",
+    "title": "Physics Insight",
+    "day": "13"
+  },
+  {
+    "month": "10",
+    "num": 3155,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Physics Paths",
+    "transcript": "",
+    "alt": "If nothing else, that reasoning definitely overturns syllogisms.",
+    "img": "https://imgs.xkcd.com/comics/physics_paths.png",
+    "title": "Physics Paths",
+    "day": "15"
+  },
+  {
+    "month": "10",
+    "num": 3156,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Planetary Rings",
+    "transcript": "",
+    "alt": "If you don't know where you are on Earth, the angle of satellite dishes can help constrain your latitude. If some of them are pointing straight up, you're probably near the Equator, right under the ring.",
+    "img": "https://imgs.xkcd.com/comics/planetary_rings.png",
+    "title": "Planetary Rings",
+    "day": "17"
   }
 ]
