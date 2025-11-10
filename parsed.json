@@ -41228,5 +41228,44 @@
     "img": "https://imgs.xkcd.com/comics/heart_mountain.png",
     "title": "Heart Mountain",
     "day": "31"
+  },
+  {
+    "month": "11",
+    "num": 3163,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Repair Video",
+    "transcript": "",
+    "alt": "The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue.",
+    "img": "https://imgs.xkcd.com/comics/repair_video.png",
+    "title": "Repair Video",
+    "day": "3"
+  },
+  {
+    "month": "11",
+    "num": 3164,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Metric Tip",
+    "transcript": "",
+    "alt": "The package weighs 7 kg 9 oz.",
+    "img": "https://imgs.xkcd.com/comics/metric_tip.png",
+    "title": "Metric Tip",
+    "day": "5"
+  },
+  {
+    "month": "11",
+    "num": 3165,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Earthquake Prediction Flowchart",
+    "transcript": "",
+    "alt": "At least people who make religious predictions of the apocalypse have an answer to the question 'Why didn't you predict any of the other ones that happened recently?'",
+    "img": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png",
+    "title": "Earthquake Prediction Flowchart",
+    "day": "7"
   }
 ]
