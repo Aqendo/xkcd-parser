@@ -41267,5 +41267,44 @@
     "img": "https://imgs.xkcd.com/comics/earthquake_prediction_flowchart.png",
     "title": "Earthquake Prediction Flowchart",
     "day": "7"
+  },
+  {
+    "month": "11",
+    "num": 3166,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Big and Little Spoons",
+    "transcript": "",
+    "alt": "Are you the annoying spoon or the sleepy spoon?",
+    "img": "https://imgs.xkcd.com/comics/big_and_little_spoons.png",
+    "title": "Big and Little Spoons",
+    "day": "10"
+  },
+  {
+    "month": "11",
+    "num": 3167,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Car Size",
+    "transcript": "",
+    "alt": "'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'",
+    "img": "https://imgs.xkcd.com/comics/car_size.png",
+    "title": "Car Size",
+    "day": "12"
+  },
+  {
+    "month": "11",
+    "num": 3168,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Beam Dump",
+    "transcript": "",
+    "alt": "We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain.",
+    "img": "https://imgs.xkcd.com/comics/beam_dump.png",
+    "title": "Beam Dump",
+    "day": "14"
   }
 ]
