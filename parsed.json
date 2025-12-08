@@ -41384,5 +41384,44 @@
     "img": "https://imgs.xkcd.com/comics/bridge_clearance.png",
     "title": "Bridge Clearance",
     "day": "28"
+  },
+  {
+    "month": "12",
+    "num": 3175,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Website Task Flowchart",
+    "transcript": "",
+    "alt": "Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!",
+    "img": "https://imgs.xkcd.com/comics/website_task_flowchart.png",
+    "title": "Website Task Flowchart",
+    "day": "1"
+  },
+  {
+    "month": "12",
+    "num": 3176,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Inverted Catenaries",
+    "transcript": "",
+    "alt": "Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast.",
+    "img": "https://imgs.xkcd.com/comics/inverted_catenaries.png",
+    "title": "Inverted Catenaries",
+    "day": "3"
+  },
+  {
+    "month": "12",
+    "num": 3177,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Chessboard Alignment",
+    "transcript": "",
+    "alt": "Luckily, the range is limited by the fact that the square boundary lines follow great circles.",
+    "img": "https://imgs.xkcd.com/comics/chessboard_alignment.png",
+    "title": "Chessboard Alignment",
+    "day": "5"
   }
 ]
