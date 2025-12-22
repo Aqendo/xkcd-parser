@@ -41462,5 +41462,44 @@
     "img": "https://imgs.xkcd.com/comics/apples.png",
     "title": "Apples",
     "day": "12"
+  },
+  {
+    "month": "12",
+    "num": 3181,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Jumping Frog Radius",
+    "transcript": "",
+    "alt": "Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth.",
+    "img": "https://imgs.xkcd.com/comics/jumping_frog_radius.png",
+    "title": "Jumping Frog Radius",
+    "day": "15"
+  },
+  {
+    "month": "12",
+    "num": 3182,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Telescope Types",
+    "transcript": "",
+    "alt": "I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length.",
+    "img": "https://imgs.xkcd.com/comics/telescope_types.png",
+    "title": "Telescope Types",
+    "day": "17"
+  },
+  {
+    "month": "12",
+    "num": 3183,
+    "link": "",
+    "year": "2025",
+    "news": "",
+    "safe_title": "Pole Vault Pole",
+    "transcript": "",
+    "alt": "My goal in life is to be personally responsible for at least one sports rule change.",
+    "img": "https://imgs.xkcd.com/comics/pole_vault_pole.png",
+    "title": "Pole Vault Pole",
+    "day": "19"
   }
 ]
