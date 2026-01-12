@@ -41579,5 +41579,44 @@
     "img": "https://imgs.xkcd.com/comics/conic_sections.png",
     "title": "Conic Sections",
     "day": "2"
+  },
+  {
+    "month": "1",
+    "num": 3190,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Tensegrity",
+    "transcript": "",
+    "alt": "Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it.",
+    "img": "https://imgs.xkcd.com/comics/tensegrity.png",
+    "title": "Tensegrity",
+    "day": "5"
+  },
+  {
+    "month": "1",
+    "num": 3191,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Superstition",
+    "transcript": "",
+    "alt": "It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!",
+    "img": "https://imgs.xkcd.com/comics/superstition.png",
+    "title": "Superstition",
+    "day": "7"
+  },
+  {
+    "month": "1",
+    "num": 3192,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Planetary Alignment",
+    "transcript": "",
+    "alt": "We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?",
+    "img": "https://imgs.xkcd.com/comics/planetary_alignment.png",
+    "title": "Planetary Alignment",
+    "day": "9"
   }
 ]
