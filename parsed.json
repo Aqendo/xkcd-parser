@@ -41696,5 +41696,44 @@
     "img": "https://imgs.xkcd.com/comics/double_pronged_extension_cord.png",
     "title": "Double-Pronged Extension Cord",
     "day": "23"
+  },
+  {
+    "month": "1",
+    "num": 3199,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Early Arthropods",
+    "transcript": "",
+    "alt": "'Ugh, I'm never going to be like spiders. My descendants will all just be normal arthropods who mind their own busines and don't do anything weird.' --The ancestor of a bunch of eusocial insects",
+    "img": "https://imgs.xkcd.com/comics/early_arthropods.png",
+    "title": "Early Arthropods",
+    "day": "26"
+  },
+  {
+    "month": "1",
+    "num": 3200,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Chemical Formula",
+    "transcript": "",
+    "alt": "Some of the atoms in the molecule are very weakly bound.",
+    "img": "https://imgs.xkcd.com/comics/chemical_formula.png",
+    "title": "Chemical Formula",
+    "day": "28"
+  },
+  {
+    "month": "1",
+    "num": 3201,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Proof Without Content",
+    "transcript": "",
+    "alt": "There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader.",
+    "img": "https://imgs.xkcd.com/comics/proof_without_content.png",
+    "title": "Proof Without Content",
+    "day": "30"
   }
 ]
