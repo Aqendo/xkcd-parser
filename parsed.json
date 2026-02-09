@@ -41735,5 +41735,44 @@
     "img": "https://imgs.xkcd.com/comics/proof_without_content.png",
     "title": "Proof Without Content",
     "day": "30"
+  },
+  {
+    "month": "2",
+    "num": 3202,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Groundhog Day Meaning",
+    "transcript": "",
+    "alt": "Originally, the ceremony used a variety of rodents and mustelids, but over time most people agreed it made sense to standardize on a specific individual ground squirrel in Pennsylvania.",
+    "img": "https://imgs.xkcd.com/comics/groundhog_day_meaning.png",
+    "title": "Groundhog Day Meaning",
+    "day": "2"
+  },
+  {
+    "month": "2",
+    "num": 3203,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Binary Star",
+    "transcript": "",
+    "alt": "The discovery of a fully typographical star system comes with a big asterisk.",
+    "img": "https://imgs.xkcd.com/comics/binary_star.png",
+    "title": "Binary Star",
+    "day": "4"
+  },
+  {
+    "month": "2",
+    "num": 3204,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Dinosaurs And Non-Dinosaurs",
+    "transcript": "",
+    "alt": "Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs.",
+    "img": "https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png",
+    "title": "Dinosaurs And Non-Dinosaurs",
+    "day": "6"
   }
 ]
