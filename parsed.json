@@ -41813,5 +41813,44 @@
     "img": "https://imgs.xkcd.com/comics/bad_map_projection_zero_declination.png",
     "title": "Bad Map Projection: Zero Declination",
     "day": "13"
+  },
+  {
+    "month": "2",
+    "num": 3208,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "SNEWS",
+    "transcript": "",
+    "alt": "People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible.",
+    "img": "https://imgs.xkcd.com/comics/snews.png",
+    "title": "SNEWS",
+    "day": "16"
+  },
+  {
+    "month": "2",
+    "num": 3209,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Plums",
+    "transcript": "",
+    "alt": "My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost.",
+    "img": "https://imgs.xkcd.com/comics/plums.png",
+    "title": "Plums",
+    "day": "18"
+  },
+  {
+    "month": "2",
+    "num": 3210,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Eliminating the Impossible",
+    "transcript": "",
+    "alt": "'If you've eliminated a few possibilities and you can't think of any others, your weird theory is proven right' isn't quite as rhetorically compelling.",
+    "img": "https://imgs.xkcd.com/comics/eliminating_the_impossible.png",
+    "title": "Eliminating the Impossible",
+    "day": "20"
   }
 ]
