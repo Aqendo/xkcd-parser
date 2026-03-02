@@ -41852,5 +41852,44 @@
     "img": "https://imgs.xkcd.com/comics/eliminating_the_impossible.png",
     "title": "Eliminating the Impossible",
     "day": "20"
+  },
+  {
+    "month": "2",
+    "num": 3211,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Amperage",
+    "transcript": "",
+    "alt": "Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?",
+    "img": "https://imgs.xkcd.com/comics/amperage.png",
+    "title": "Amperage",
+    "day": "23"
+  },
+  {
+    "month": "2",
+    "num": 3212,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Little Red Dots",
+    "transcript": "",
+    "alt": "After a lot of analysis, I've determined that they're actually big red dots; they're just very far away.",
+    "img": "https://imgs.xkcd.com/comics/little_red_dots.png",
+    "title": "Little Red Dots",
+    "day": "25"
+  },
+  {
+    "month": "2",
+    "num": 3213,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Dental Formulas",
+    "transcript": "",
+    "alt": "I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points.",
+    "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
+    "title": "Dental Formulas",
+    "day": "27"
   }
 ]
