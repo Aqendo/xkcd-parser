@@ -41891,5 +41891,44 @@
     "img": "https://imgs.xkcd.com/comics/dental_formulas.png",
     "title": "Dental Formulas",
     "day": "27"
+  },
+  {
+    "month": "3",
+    "num": 3214,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Electric Vehicles",
+    "transcript": "",
+    "alt": "Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one.",
+    "img": "https://imgs.xkcd.com/comics/electric_vehicles.png",
+    "title": "Electric Vehicles",
+    "day": "2"
+  },
+  {
+    "month": "3",
+    "num": 3215,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Solar Warning",
+    "transcript": "",
+    "alt": "This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses.",
+    "img": "https://imgs.xkcd.com/comics/solar_warning.png",
+    "title": "Solar Warning",
+    "day": "4"
+  },
+  {
+    "month": "3",
+    "num": 3216,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Bazookasaurus",
+    "transcript": "",
+    "alt": "In contrast to the deep booming sound associated with the cannon in pop culture depictions, recent studies show it actually made more of a 'toot toot!' noise.",
+    "img": "https://imgs.xkcd.com/comics/bazookasaurus.png",
+    "title": "Bazookasaurus",
+    "day": "6"
   }
 ]
