@@ -41969,5 +41969,44 @@
     "img": "https://imgs.xkcd.com/comics/planets_and_bright_stars.png",
     "title": "Planets and Bright Stars",
     "day": "13"
+  },
+  {
+    "month": "3",
+    "num": 3220,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Rotational Gravity",
+    "transcript": "",
+    "alt": "I don't get it. The peak acceleration for passengers was WAY lower than in the giant-waterslide-loop-the-loop incident the other cruise line fired me for.",
+    "img": "https://imgs.xkcd.com/comics/rotational_gravity.png",
+    "title": "Rotational Gravity",
+    "day": "16"
+  },
+  {
+    "month": "3",
+    "num": 3221,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Landscape Features",
+    "transcript": "",
+    "alt": "'Well, there's speculation that it's due to a mantle hotspot.' --a geologist who's trying to cover up the fact that they didn't hear your question",
+    "img": "https://imgs.xkcd.com/comics/landscape_features.png",
+    "title": "Landscape Features",
+    "day": "18"
+  },
+  {
+    "month": "3",
+    "num": 3222,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Star Formation",
+    "transcript": "",
+    "alt": "It's ok, I still have some nice, cool gas clouds that aren't collapsing. As long as nothing ionizes them, I can continue to enjoy their ... HEY! NO!!!",
+    "img": "https://imgs.xkcd.com/comics/star_formation.png",
+    "title": "Star Formation",
+    "day": "20"
   }
 ]
