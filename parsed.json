@@ -42047,5 +42047,44 @@
     "img": "https://imgs.xkcd.com/comics/satellite_pollution.png",
     "title": "Satellite Pollution",
     "day": "27"
+  },
+  {
+    "month": "3",
+    "num": 3226,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Home Solar",
+    "transcript": "",
+    "alt": "\"While I try to do my part to destroy the environment, I try not to focus too much on individual responsibility. By pushing for broad policy changes, we can collectively do far more damage to the biosphere than any of us could on our own.\"",
+    "img": "https://imgs.xkcd.com/comics/home_solar.png",
+    "title": "Home Solar",
+    "day": "30"
+  },
+  {
+    "month": "4",
+    "num": 3227,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Creation",
+    "transcript": "",
+    "alt": "This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic.",
+    "img": "https://imgs.xkcd.com/comics/creation.png",
+    "title": "Creation",
+    "day": "1"
+  },
+  {
+    "month": "4",
+    "num": 3228,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Day Counter",
+    "transcript": "",
+    "alt": "It has been −2,147,483,648 days since our last integer overflow.",
+    "img": "https://imgs.xkcd.com/comics/day_counter.png",
+    "title": "Day Counter",
+    "day": "3"
   }
 ]
