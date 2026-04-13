@@ -42086,5 +42086,44 @@
     "img": "https://imgs.xkcd.com/comics/day_counter.png",
     "title": "Day Counter",
     "day": "3"
+  },
+  {
+    "month": "4",
+    "num": 3229,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Grammar",
+    "transcript": "",
+    "alt": "Communication is one of the most popular ways to transmit information, ahead of rivals such as",
+    "img": "https://imgs.xkcd.com/comics/grammar.png",
+    "title": "Grammar",
+    "day": "6"
+  },
+  {
+    "month": "4",
+    "num": 3230,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Overton",
+    "transcript": "",
+    "alt": "I think I accidentally installed an Overton window in my bedroom. A few months ago, the sun wasn't in my face in the morning, but now it is.",
+    "img": "https://imgs.xkcd.com/comics/overton.png",
+    "title": "Overton",
+    "day": "8"
+  },
+  {
+    "month": "4",
+    "num": 3231,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Lightning",
+    "transcript": "",
+    "alt": "Maybe you should wear one too? I guess I'm taller than you, so as long as I have one we're fine.",
+    "img": "https://imgs.xkcd.com/comics/lightning.png",
+    "title": "Lightning",
+    "day": "10"
   }
 ]
