@@ -42203,5 +42203,44 @@
     "img": "https://imgs.xkcd.com/comics/husband_and_wife.png",
     "title": "Husband and Wife",
     "day": "24"
+  },
+  {
+    "month": "4",
+    "num": 3238,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Soniferous Aether",
+    "transcript": "",
+    "alt": "Imagine you could ride alongside a sound wave. It would probably be pretty cool, right? We're putting in a departmental budget request to buy a really fast plane so we can check it out.",
+    "img": "https://imgs.xkcd.com/comics/soniferous_aether.png",
+    "title": "Soniferous Aether",
+    "day": "27"
+  },
+  {
+    "month": "4",
+    "num": 3239,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Simple Machines",
+    "transcript": "",
+    "alt": "It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good.",
+    "img": "https://imgs.xkcd.com/comics/simple_machines.png",
+    "title": "Simple Machines",
+    "day": "29"
+  },
+  {
+    "month": "5",
+    "num": 3240,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Bottle",
+    "transcript": "",
+    "alt": "\"I know it seems impossible, but the trick is that I sailed in here when I was very young.\"",
+    "img": "https://imgs.xkcd.com/comics/bottle.png",
+    "title": "Bottle",
+    "day": "1"
   }
 ]
