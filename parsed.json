@@ -42281,5 +42281,44 @@
     "img": "https://imgs.xkcd.com/comics/crystal_gazing.png",
     "title": "Crystal Gazing",
     "day": "8"
+  },
+  {
+    "month": "5",
+    "num": 3244,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Pullback Drive",
+    "transcript": "",
+    "alt": "\"How does the spring not run out almost immediately?\" \"We pull it back REALLY far.\"",
+    "img": "https://imgs.xkcd.com/comics/pullback_drive.png",
+    "title": "Pullback Drive",
+    "day": "11"
+  },
+  {
+    "month": "5",
+    "num": 3245,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Results Age",
+    "transcript": "",
+    "alt": "Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file.",
+    "img": "https://imgs.xkcd.com/comics/results_age.png",
+    "title": "Results Age",
+    "day": "13"
+  },
+  {
+    "month": "5",
+    "num": 3246,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Speedrun",
+    "transcript": "",
+    "alt": "Usain Bolt holds the world record in the 100 meter speedrun.",
+    "img": "https://imgs.xkcd.com/comics/speedrun.png",
+    "title": "Speedrun",
+    "day": "15"
   }
 ]
