@@ -42320,5 +42320,44 @@
     "img": "https://imgs.xkcd.com/comics/speedrun.png",
     "title": "Speedrun",
     "day": "15"
+  },
+  {
+    "month": "5",
+    "num": 3247,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Particle Census",
+    "transcript": "",
+    "alt": "Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations.",
+    "img": "https://imgs.xkcd.com/comics/particle_census.png",
+    "title": "Particle Census",
+    "day": "18"
+  },
+  {
+    "month": "5",
+    "num": 3248,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "182.8 Meters",
+    "transcript": "",
+    "alt": "They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect.",
+    "img": "https://imgs.xkcd.com/comics/182_8_meters.png",
+    "title": "182.8 Meters",
+    "day": "20"
+  },
+  {
+    "month": "5",
+    "num": 3249,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Neutrino Project",
+    "transcript": "",
+    "alt": "We definitely put the pool in a mine for shielding. It was absolutely not to hide it from the funding people.",
+    "img": "https://imgs.xkcd.com/comics/neutrino_project.png",
+    "title": "Neutrino Project",
+    "day": "22"
   }
 ]
