@@ -42398,5 +42398,44 @@
     "img": "https://imgs.xkcd.com/comics/ancestral_genomes.png",
     "title": "Ancestral Genomes",
     "day": "29"
+  },
+  {
+    "month": "6",
+    "num": 3253,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Sunbeam",
+    "transcript": "",
+    "alt": "While weather control is typically thought of as a superpower, the unconscious ability of astronomers and astrophotographers to summon clouds is more properly classified as a curse.",
+    "img": "https://imgs.xkcd.com/comics/sunbeam.png",
+    "title": "Sunbeam",
+    "day": "1"
+  },
+  {
+    "month": "6",
+    "num": 3254,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Detector",
+    "transcript": "",
+    "alt": "No other experiment has a lower false negative rate.",
+    "img": "https://imgs.xkcd.com/comics/detector.png",
+    "title": "Detector",
+    "day": "3"
+  },
+  {
+    "month": "6",
+    "num": 3255,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Planetary Science",
+    "transcript": "",
+    "alt": "The research was overseen by the Institutional Review Board, which is what I named my surfboard.",
+    "img": "https://imgs.xkcd.com/comics/planetary_science.png",
+    "title": "Planetary Science",
+    "day": "5"
   }
 ]
