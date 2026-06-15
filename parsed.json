@@ -42437,5 +42437,44 @@
     "img": "https://imgs.xkcd.com/comics/planetary_science.png",
     "title": "Planetary Science",
     "day": "5"
+  },
+  {
+    "month": "6",
+    "num": 3256,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Nostalgia Content",
+    "transcript": "",
+    "alt": "Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are.",
+    "img": "https://imgs.xkcd.com/comics/nostalgia_content.png",
+    "title": "Nostalgia Content",
+    "day": "8"
+  },
+  {
+    "month": "6",
+    "num": 3257,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Beam Pipe",
+    "transcript": "",
+    "alt": "'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom",
+    "img": "https://imgs.xkcd.com/comics/beam_pipe.png",
+    "title": "Beam Pipe",
+    "day": "10"
+  },
+  {
+    "month": "6",
+    "num": 3258,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Plate Flip",
+    "transcript": "",
+    "alt": "It's great for exfoliating your skin, bones, houses, cities, landscape, etc.",
+    "img": "https://imgs.xkcd.com/comics/plate_flip.png",
+    "title": "Plate Flip",
+    "day": "12"
   }
 ]
