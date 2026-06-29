@@ -42515,5 +42515,44 @@
     "img": "https://imgs.xkcd.com/comics/side_effect.png",
     "title": "Side Effect",
     "day": "19"
+  },
+  {
+    "month": "6",
+    "num": 3262,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Sports Commentary",
+    "transcript": "",
+    "alt": "The plural of anecdote may not be data, but the singular of data is anecdote.",
+    "img": "https://imgs.xkcd.com/comics/sports_commentary.png",
+    "title": "Sports Commentary",
+    "day": "22"
+  },
+  {
+    "month": "6",
+    "num": 3263,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Baryon Asymmetry",
+    "transcript": "",
+    "alt": "Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?",
+    "img": "https://imgs.xkcd.com/comics/baryon_asymmetry.png",
+    "title": "Baryon Asymmetry",
+    "day": "24"
+  },
+  {
+    "month": "6",
+    "num": 3264,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "720 Ollie",
+    "transcript": "",
+    "alt": "This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games.",
+    "img": "https://imgs.xkcd.com/comics/720_ollie.png",
+    "title": "720 Ollie",
+    "day": "26"
   }
 ]
