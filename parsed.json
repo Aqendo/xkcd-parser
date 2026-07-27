@@ -42671,5 +42671,44 @@
     "img": "https://imgs.xkcd.com/comics/latitude_and_longitude.png",
     "title": "Latitude and Longitude",
     "day": "17"
+  },
+  {
+    "month": "7",
+    "num": 3274,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Arthurian Connector",
+    "transcript": "",
+    "alt": "Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord.",
+    "img": "https://imgs.xkcd.com/comics/arthurian_connector.png",
+    "title": "Arthurian Connector",
+    "day": "20"
+  },
+  {
+    "month": "7",
+    "num": 3275,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Calibration Nobel",
+    "transcript": "",
+    "alt": "We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular.",
+    "img": "https://imgs.xkcd.com/comics/calibration_nobel.png",
+    "title": "Calibration Nobel",
+    "day": "22"
+  },
+  {
+    "month": "7",
+    "num": 3276,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Recursive Trucker's Hitch",
+    "transcript": "",
+    "alt": "As if the americium smoke detector incident wasn't enough, now nuclear regulators have ANOTHER reason to worry about the Boy Scouts.",
+    "img": "https://imgs.xkcd.com/comics/recursive_truckers_hitch.png",
+    "title": "Recursive Trucker's Hitch",
+    "day": "24"
   }
 ]
