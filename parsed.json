@@ -42827,5 +42827,44 @@
     "img": "https://imgs.xkcd.com/comics/accretionary_arc.png",
     "title": "Accretionary Arc",
     "day": "14"
+  },
+  {
+    "month": "8",
+    "num": 3286,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Particle Physics Equipment",
+    "transcript": "",
+    "alt": "The one that sounds like the oracle at the center of the galaxy where the hero travels to hear a prophecy is probably Brookhaven National Laboratory's now-dismantled COSMOTRON.",
+    "img": "https://imgs.xkcd.com/comics/particle_physics_equipment.png",
+    "title": "Particle Physics Equipment",
+    "day": "17"
+  },
+  {
+    "month": "8",
+    "num": 3287,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Perseids",
+    "transcript": "",
+    "alt": "Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good.",
+    "img": "https://imgs.xkcd.com/comics/perseids.png",
+    "title": "Perseids",
+    "day": "19"
+  },
+  {
+    "month": "8",
+    "num": 3288,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Archery Feat",
+    "transcript": "",
+    "alt": "Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me.",
+    "img": "https://imgs.xkcd.com/comics/archery_feat.png",
+    "title": "Archery Feat",
+    "day": "21"
   }
 ]
