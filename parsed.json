@@ -42905,5 +42905,44 @@
     "img": "https://imgs.xkcd.com/comics/launchpad.png",
     "title": "Launchpad",
     "day": "28"
+  },
+  {
+    "month": "8",
+    "num": 3292,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Geology Class",
+    "transcript": "",
+    "alt": "The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates.",
+    "img": "https://imgs.xkcd.com/comics/geology_class.png",
+    "title": "Geology Class",
+    "day": "31"
+  },
+  {
+    "month": "9",
+    "num": 3293,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Handedness",
+    "transcript": "",
+    "alt": "A 'left-handed specialist' is a physicist who studies the weak interaction.",
+    "img": "https://imgs.xkcd.com/comics/handedness.png",
+    "title": "Handedness",
+    "day": "2"
+  },
+  {
+    "month": "9",
+    "num": 3294,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Asteroid Mission",
+    "transcript": "",
+    "alt": "Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny.",
+    "img": "https://imgs.xkcd.com/comics/asteroid_mission.png",
+    "title": "Asteroid Mission",
+    "day": "4"
   }
 ]
