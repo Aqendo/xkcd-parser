@@ -42944,5 +42944,44 @@
     "img": "https://imgs.xkcd.com/comics/asteroid_mission.png",
     "title": "Asteroid Mission",
     "day": "4"
+  },
+  {
+    "month": "9",
+    "num": 3295,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Semaphore",
+    "transcript": "",
+    "alt": "The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage.",
+    "img": "https://imgs.xkcd.com/comics/semaphore.png",
+    "title": "Semaphore",
+    "day": "7"
+  },
+  {
+    "month": "9",
+    "num": 3296,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Fault Taunting",
+    "transcript": "",
+    "alt": "One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot.",
+    "img": "https://imgs.xkcd.com/comics/fault_taunting.png",
+    "title": "Fault Taunting",
+    "day": "9"
+  },
+  {
+    "month": "9",
+    "num": 3297,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "OH Scale",
+    "transcript": "",
+    "alt": "To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail.",
+    "img": "https://imgs.xkcd.com/comics/oh_scale.png",
+    "title": "OH Scale",
+    "day": "11"
   }
 ]
