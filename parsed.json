@@ -42983,5 +42983,44 @@
     "img": "https://imgs.xkcd.com/comics/oh_scale.png",
     "title": "OH Scale",
     "day": "11"
+  },
+  {
+    "month": "9",
+    "num": 3298,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Aerospace Flowchart",
+    "transcript": "",
+    "alt": "Someday, we will find the problem that goes with this solution.",
+    "img": "https://imgs.xkcd.com/comics/aerospace_flowchart.png",
+    "title": "Aerospace Flowchart",
+    "day": "14"
+  },
+  {
+    "month": "9",
+    "num": 3299,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Summer",
+    "transcript": "",
+    "alt": "You should probably get back to shore before spring hits.",
+    "img": "https://imgs.xkcd.com/comics/summer.png",
+    "title": "Summer",
+    "day": "16"
+  },
+  {
+    "month": "9",
+    "num": 3300,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Tyrannosaurus",
+    "transcript": "",
+    "alt": "Many of the smaller dinosaurs seem to have largely preyed on housecats.",
+    "img": "https://imgs.xkcd.com/comics/tyrannosaurus.png",
+    "title": "Tyrannosaurus",
+    "day": "18"
   }
 ]
