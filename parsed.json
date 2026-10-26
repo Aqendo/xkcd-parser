@@ -43178,5 +43178,44 @@
     "img": "https://imgs.xkcd.com/comics/momentum_demonstration.png",
     "title": "Momentum Demonstration",
     "day": "16"
+  },
+  {
+    "month": "10",
+    "num": 3313,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Fusion Device",
+    "transcript": "",
+    "alt": "I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work.",
+    "img": "https://imgs.xkcd.com/comics/fusion_device.png",
+    "title": "Fusion Device",
+    "day": "19"
+  },
+  {
+    "month": "10",
+    "num": 3314,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Vulnerability",
+    "transcript": "",
+    "alt": "Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'.",
+    "img": "https://imgs.xkcd.com/comics/vulnerability.png",
+    "title": "Vulnerability",
+    "day": "21"
+  },
+  {
+    "month": "10",
+    "num": 3315,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Forms of Water",
+    "transcript": "",
+    "alt": "The 'light' refers to bremsstrahlung.",
+    "img": "https://imgs.xkcd.com/comics/forms_of_water.png",
+    "title": "Forms of Water",
+    "day": "23"
   }
 ]
