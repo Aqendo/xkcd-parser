@@ -43256,5 +43256,44 @@
     "img": "https://imgs.xkcd.com/comics/earth_sized_planets.png",
     "title": "Earth Sized Planets",
     "day": "30"
+  },
+  {
+    "month": "11",
+    "num": 3319,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Elevators",
+    "transcript": "",
+    "alt": "\"A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs.\"",
+    "img": "https://imgs.xkcd.com/comics/elevators.png",
+    "title": "Elevators",
+    "day": "2"
+  },
+  {
+    "month": "11",
+    "num": 3320,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "House Majority",
+    "transcript": "",
+    "alt": "For the first time in history, it will be possible for a Democratic Senator from Kansas to see a programmable automatic digital computer.",
+    "img": "https://imgs.xkcd.com/comics/house_majority.png",
+    "title": "House Majority",
+    "day": "4"
+  },
+  {
+    "month": "11",
+    "num": 3321,
+    "link": "",
+    "year": "2026",
+    "news": "",
+    "safe_title": "Simulation",
+    "transcript": "",
+    "alt": "No matter what I initially open Universe Sandbox to do, I always end up just mashing planets together like a small child making toys kiss.",
+    "img": "https://imgs.xkcd.com/comics/simulation.png",
+    "title": "Simulation",
+    "day": "6"
   }
 ]
